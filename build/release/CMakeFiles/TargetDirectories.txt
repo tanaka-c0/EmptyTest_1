@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/VsCode_ET/EmptyTest/build/release/CMakeFiles/EmptyTest.dir
+C:/Users/pc/Documents/VsCode_ET/EmptyTest/build/release/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/VsCode_ET/EmptyTest/build/release/CMakeFiles/rebuild_cache.dir
